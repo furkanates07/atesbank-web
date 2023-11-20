@@ -389,7 +389,7 @@ footer a{
   }
 }
 
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 560px) {
   header ul {
     font-size: 0.6rem;
     white-space: nowrap;
