@@ -368,47 +368,20 @@ footer a{
 }
 
 @media screen and (max-width: 560px) {
-  #account, #right {
-    flex-direction: column;
-    position: static;
-    width: 100%;
-  }
-
-
-  header ul {
-    font-size: 0.75rem;
-    white-space: nowrap;
-  }
-
-  #motto {
-    white-space: nowrap;
-  }
-
-  main {
-    flex-direction: column;
-  }
-}
-
-@media screen and (max-width: 560px) {
   header ul {
     font-size: 0.6rem;
     white-space: nowrap;
-  }
-
-  #account, #right {
-      flex-direction: column;
-      position: static;
-      width: 100%;
-    }
-  #motto {
-    white-space: nowrap;
-    font-size: 0.6rem;
   }
   
   #account, #right {
     flex-direction: column;
     position: static;
     width: 100%;
+  }
+
+  #motto {
+    white-space: nowrap;
+    font-size: 0.6rem;
   }
 
   main {
