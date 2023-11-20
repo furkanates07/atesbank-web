@@ -7,7 +7,7 @@ This project represents a simple web page for Atesbank. The project includes a h
 
 1. Clone the project to your computer or download it as a ZIP file.
     ```bash
-    git clone https://github.com/user/atesbank-web.git
+    git clone https://github.com/furkanates07/atesbank-web.git
     ```
     or [click here to download as a ZIP file](https://github.com/user/atesbank-web/archive/main.zip).
 
